@@ -7,7 +7,7 @@ Supported platforms:
 - Linux  
 - MacOS X  
 
-Copyright (c) 2013-2015 Frédéric Meslin  
+Copyright (c) 2013-2015 FrÃ©dÃ©ric Meslin  
 Email: fredericmeslin@hotmail.com  
 Website: www.fredslab.net  
 Twitter: @marzacdev  
